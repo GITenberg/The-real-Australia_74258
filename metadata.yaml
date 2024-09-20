@@ -1,5 +1,8 @@
 _repo: The-real-Australia_74258
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74258-h/images/cover.jpg
 creator:
   author:
     agent_name: Buchanan, Alfred
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '57416'
     url: http://www.gutenberg.org/2009/agents/57416
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74258#The-real-Australia
 gutenberg_issued: '2024-08-15'
 gutenberg_type: Text
 identifiers:
